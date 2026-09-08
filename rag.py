@@ -199,4 +199,8 @@ def search_documents(query, top_k=4):
 
         results.append(result)
 
+<<<<<<< HEAD
     return results
+=======
+    return results
+>>>>>>> 53337c5ae045d48d8fee33b2d313ae2ed17c723a
