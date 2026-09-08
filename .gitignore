@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.*
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# RAG / Vector files
+*.pkl
+*.index
+vectorstore/
+chroma/
+embeddings/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# College documents
+*.pdf
+*.docx
+*.xlsx

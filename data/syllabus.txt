@@ -1,0 +1,27 @@
+COLLEGE SYLLABUS
+
+Department: Computer Science
+Academic Year: 2026-2027
+
+Semester 5 Subjects:
+
+1. Machine Learning
+2. Data Science
+3. Cloud Computing
+4. Big Data Analytics
+5. Python Programming
+
+Machine Learning:
+Credits: 4
+
+Data Science:
+Credits: 4
+
+Cloud Computing:
+Credits: 3
+
+Big Data Analytics:
+Credits: 4
+
+Python Programming:
+Credits: 3
